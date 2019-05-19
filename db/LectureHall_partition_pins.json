@@ -1,0 +1,169 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "trig1",
+					"strict" : false
+				},
+				{
+					"name" : "trig2",
+					"strict" : false
+				},
+				{
+					"name" : "R",
+					"strict" : false
+				},
+				{
+					"name" : "G",
+					"strict" : false
+				},
+				{
+					"name" : "out1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "out3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "out3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "out3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "out3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "out3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "out3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "out3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "temp1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "temp1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "temp1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "temp1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "temp1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "temp1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "temp1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "temp2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "temp2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "temp2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "temp2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "temp2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "echo1",
+					"strict" : false
+				},
+				{
+					"name" : "echo2",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
